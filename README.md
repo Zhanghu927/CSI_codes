@@ -1,5 +1,5 @@
 # CSI_codes
-Code for figures in the manuscript
+Code for figures and data in the manuscript 'A novel red-edge spectral index for retrieving the leaf chlorophyll content'
 
 'Ref_ALL(Swir).mat' is the .mat file storing the PROSAIL simulated reflectance . It is a 3d matrix (x*y*z: 81*10*100). 
 X: Chl from 0 to 80, 
